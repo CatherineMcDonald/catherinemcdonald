@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: This is the homepage of Catherine McDonald
 description: This page is a project for the course Bit by Bit at the Graduate Institute, Geneva
+plugins:
+-jemoji
